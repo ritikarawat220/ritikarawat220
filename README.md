@@ -32,7 +32,7 @@
 - ✨ Interests: travelling, playing games.
 
 
-- 🧔🏻 Pronouns: She/Her.
+- 👧 Pronouns: She/Her.
 
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritikarawat220&show_icons=true&theme=nightowl&count_private=true"/>
