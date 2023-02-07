@@ -42,4 +42,4 @@
 <h2>Weekly Coding Stats</h2>
 
 
-[![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritikarawat220&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&theme=radical)]
