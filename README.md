@@ -31,7 +31,7 @@
 
 - ✨ Interests: Travelling, Playing games.
 - 📫 How to reach me: ritikarawat220@gmail.com
-- ⚡ Fun fact: I am dancer and I love to travel and explore new things.
+- ⚡ Fun fact: I am a dancer and I love to travel and explore new things.
 
 
 - 👧 Pronouns: She/Her.
