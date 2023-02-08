@@ -29,7 +29,9 @@
 <a href="https://www.linkedin.com/in/rawatritika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritika" height="30" width="40" /></a>
 </p>
 
-- ✨ Interests: travelling, playing games.
+- ✨ Interests: Travelling, Playing games.
+- 📫 How to reach me: ritikarawat220@gmail.com
+- ⚡ Fun fact: I am dancer and I love to travel and explore new things.
 
 
 - 👧 Pronouns: She/Her.
