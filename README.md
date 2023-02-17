@@ -37,8 +37,8 @@
 - 👧 Pronouns: She/Her.
 
 <div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritikarawat220&show_icons=true&theme=nightowl&count_private=true"/>
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&theme=midnight-purple&hide_border=true" />
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikarawat220&theme=midnight-purple&hide_border=true" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikarawat220&" alt="ritikarawat220" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikarawat220&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true" alt="ritikarawat220" /></p>
