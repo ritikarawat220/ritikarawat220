@@ -38,7 +38,7 @@
 
 <div>
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritikarawat220&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikarawat220&show_icons=true&theme=nightowl&layout=compact"/>
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&theme=midnight-purple&hide_border=true" />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikarawat220&" alt="ritikarawat220" /></p>
