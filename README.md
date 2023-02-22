@@ -38,11 +38,15 @@
 - 👧 Pronouns: She/Her.
 
 
-<h2 align ="left">GitHub Stats</h2>
-<div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritikarawat220&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikarawat220&show_icons=true&theme=nightowl&layout=compact"/>
-</div>
+<img src="./animated-flame-01.gif" width="16px" align="left"/>
+<img src="./animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikarawat220&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=ritikarawat220&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ritikarawat220&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&custom_title=Ritika's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Ritika's Github Activity Graph" width="100%">
