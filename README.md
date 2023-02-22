@@ -1,7 +1,7 @@
 <img src="./borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ritika! +A+full-stack+web+developer+from+India 🇮🇳" alt="Hey, I'm Ritika
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Ritika+and+Welcome+to+my+Profile!" alt="Hey, I'm Ritika
   A full-stack web developer from India 🇮! animated typed out" width="90%" align="middle"/>
   <img src="./animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
@@ -43,10 +43,9 @@
   <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikarawat220&show_icons=true&theme=nightowl&layout=compact"/>
 </div>
 
-<h2>Weekly Coding Stats</h2>
-
-
-[![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&custom_title=Ritika's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Ritika's Github Activity Graph" width="100%">
+</div>
 
 
 
