@@ -1,3 +1,4 @@
+
 <img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
@@ -10,7 +11,7 @@
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/ritikarawat220/count.svg" />
+   <img src="https://komarev.com/ghpvc/?username=Ritika&color=red">
 </div>
 
 ---
