@@ -6,7 +6,7 @@
   <img src="./animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./borderseparator.gif" width="100%"/>
-<h3 align="center">A full-stack web developer from India 🇮🇳</h3>
+<h3 align="center">A full-stack web developer from India 🇮🇳 </h3>
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
