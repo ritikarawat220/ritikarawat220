@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif">
 	
 
 - 💻 All **my projects** are available [here.](https://github.com/ritikarawat220?tab=repositories)
@@ -37,6 +37,8 @@
 
 - 👧 Pronouns: She/Her.
 
+<br>
+<br>
 <br>
 
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
