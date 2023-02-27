@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif">
 	
 
 - 💻 All **my projects** are available [here.](https://github.com/ritikarawat220?tab=repositories)
