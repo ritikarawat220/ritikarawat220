@@ -51,16 +51,11 @@
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 
-<div align="center">
-  <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritikarawat220&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
-  <img src="https://streak-stats.demolab.com?user=ritikarawat220&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ritikarawat220&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div> <br>
+[![Ritika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&custom_title=Ritika's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Ritika's Github Activity Graph" width="100%">
-</div>
+
 
 
 
