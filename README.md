@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 - ✨ Interests: Travelling, Playing games.
 - 📫 How to reach me: ritikarawat220@gmail.com
 - ⚡ Fun fact: I am a dancer and I love to travel and explore new things.
