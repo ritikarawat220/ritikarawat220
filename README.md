@@ -40,9 +40,7 @@
 - 👧 Pronouns: She/Her.
 
 
-<br>
-<br>
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikarawat220" alt="ritikarawat220" /></a> </p>
 
 <br>
 <br>
