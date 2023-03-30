@@ -42,7 +42,6 @@
 <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikarawat220" alt="ritikarawat220" /></a> </p>
-
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 
