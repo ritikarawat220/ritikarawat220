@@ -19,6 +19,8 @@
 	
 <br>
 <br>
+<br>
+<br>
 
 - 💻 All **my projects** are available [here.](https://github.com/ritikarawat220?tab=repositories)
 
@@ -39,6 +41,9 @@
 
 
 - 👧 Pronouns: She/Her.
+<br>
+
+<br>
 <br>
 
 <br>
