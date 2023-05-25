@@ -81,7 +81,7 @@
 
 #### Github Activity Graph 📊
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ritika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
