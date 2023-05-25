@@ -48,7 +48,6 @@
 
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
-
 <h2><img src="./borderseparator.gif"/></h2><br>
 
 #### Github Stats ⚡
@@ -70,6 +69,26 @@
   <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
   </p>
  <br>
+ <summary><h4>🏆 Github Awards!</h4></summary>
+ <img src="https://github-profile-trophy.vercel.app/?username=ritikarawat220&margin-w=10&margin-h=10" alt="Ritika Rawat" />  
+ </details>
+
+ #### Quote Of The Page ✌
+ 
+[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/ritikarawat220/github-readme-quotify)
+
+#### Github Activity Graph 📊
+
+[![Vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&bg_color=e0e6ff&color=385dff&line=0051ff&point=0051ff&area=true&hide_border=true&radius=25)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+%3AD;See+You+Again+%5E_%5E;Bye+Bye+!;Are+u+still+reading!)](https://git.io/typing-svg)
+
+<br>
+
+
+![wave](https://user-images.githubusercontent.com/82146140/177694992-9277afcb-e818-4712-b2a9-ab167d718991.svg)
  
 
 
