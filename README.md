@@ -49,7 +49,7 @@
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 <h2><img src="./borderseparator.gif"/></h2><br>
- <details close>
+
 #### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
