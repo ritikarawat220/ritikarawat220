@@ -46,13 +46,12 @@
 <br>
 <br>
 
-<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikarawat220" alt="ritikarawat220" /></a> </p>
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 
 <h2><img src="./borderseparator.gif"/></h2><br>
-<div><table><tr><td width="30%"><img src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritikarawat220&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
+<div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritikarawat220&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
 [![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikarawat220&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ritikarawat220/github-readme-activity-graph)
 
