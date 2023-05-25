@@ -49,7 +49,7 @@
 <img src="./animated-flame-01.gif" width="16px" align="left"/>
 <img src="./animated-flame-01.gif" width="16px" align="right"/>
 <h2><img src="./borderseparator.gif"/></h2><br>
-
+ <details close>
 #### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -69,6 +69,8 @@
   <img src="https://user-images.githubusercontent.com/82146140/205825785-6a82e3c6-2de9-418f-9d34-491393b33b72.gif" width="200px"/>
   </p>
  <br>
+ 
+  <details close>
  <summary><h4>🏆 Github Awards!</h4></summary>
  <img src="https://github-profile-trophy.vercel.app/?username=ritikarawat220&margin-w=10&margin-h=10" alt="Ritika Rawat" />  
  </details>
