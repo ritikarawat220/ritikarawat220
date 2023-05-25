@@ -54,7 +54,7 @@
 <h2><img src="./borderseparator.gif"/></h2><br>
 <div><table><tr><td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&show_icons=true&hide_border=true&title_color=f65ee0&icon_color=1495ff&text_color=0CFFD2&bg_color=0c002e"></td><td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritikarawat220&hide_border=true&ring=f65ee0&sideNums=f65ee0&stroke=1495ff&background=0c002e&sideLabels=0cffd2&dates=1495ff&fire=1495ff&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D"></td></tr></table></div>
 
-[![Ritika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ritikarawat220&bg_color=0c002e&color=0CFFD2&line=f65ee0&point=1495ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikarawat220&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ritikarawat220/github-readme-activity-graph)
 
 
 
