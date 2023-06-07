@@ -79,10 +79,11 @@
  
 [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=dracula)](https://github.com/ritikarawat220/github-readme-quotify)
 
-#### Github Activity Graph 📊
+
 
 <h2 align="left">⚡Activity Graph:</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikarawat220&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)]
+(https://github.com/ashutosh00710/github-readme-activity-graph">
 
 <br>
 
