@@ -53,10 +53,10 @@
 #### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&count_private=true&show_icons=true&theme=ocean-gradient&hide_border=true&border_radius=4.8" height="192px"/>
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritikarawat220&count_private=true&show_icons=true&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Ritika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikarawat220&langs_count=8&layout=compact&theme=ocean-gradient&hide_border=true&border_radius=4.8" height="192px"/>
+  <img alt="Ritika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikarawat220&langs_count=8&layout=compact&theme=ambient-gradient&hide_border=true&border_radius=4.8" height="192px"/>
   </a>
   <br>
   <br>
