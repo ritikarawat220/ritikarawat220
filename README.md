@@ -25,7 +25,7 @@
 - 💻 All **my projects** are available [here.](https://github.com/ritikarawat220?tab=repositories)
 
 
-### 🚀 Check out [my portfolio.](https://ritikarawat220.github.io/My-Portfolio/)
+### 🚀 Check out [my portfolio.](https://lucky-profiterole-cf7d73.netlify.app/)
 
 ### 📫 Connect with me:
 
